@@ -1,3 +1,5 @@
+Run `yarn build:tailwind` first to generate tailwind's CSS
+
 The goal is to mainly practice handling complicated states on a form with React with TypeScript.
 
 The app uses:
