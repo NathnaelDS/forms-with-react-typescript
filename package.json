@@ -12,10 +12,13 @@
     "@types/react-dom": "^16.9.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-hook-form": "^6.4.0",
     "react-scripts": "3.4.3",
+    "tailwindcss": "^1.6.2",
     "typescript": "~3.7.2"
   },
   "scripts": {
+    "build:tailwind": "tailwind build src/tailwind.css -o src/tailwind.output.css",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
