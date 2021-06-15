@@ -1,8 +1,8 @@
-Run `yarn build:tailwind` first to generate tailwind's CSS
+# Practice building complicated forms
 
 The goal is to mainly practice handling complicated states on a form with React with TypeScript.
 
-The app uses:
+I'm using and learning the following things as well:
 
 - [React's useReducer](https://reactjs.org/docs/hooks-reference.html#usereducer) to handle the state 🧶
 
@@ -10,4 +10,6 @@ The app uses:
 
 - [react-hook-form](https://react-hook-form.com/) for handling forms 👌
 
-- [TailwindCSS](https://tailwindcss.com/) to quickly spin up okay-ish styles ⚡
+- [TailwindCSS](https://tailwindcss.com/) to quickly spin up good styles ⚡
+
+Run `yarn build:tailwind` first to generate tailwind's CSS
